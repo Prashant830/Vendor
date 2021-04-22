@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039318795625",
+    "project_id": "vender-df3b9",
+    "storage_bucket": "vender-df3b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039318795625:android:d986dd84f62ea1fecc29f8",
+        "android_client_info": {
+          "package_name": "com.example.vender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039318795625-7sklbt8ed7p59uh1v9q9njr41ecpvt1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSzbHPaGqoeFksIcBb1bCdMgYdmXWljvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039318795625-7sklbt8ed7p59uh1v9q9njr41ecpvt1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
